@@ -16,6 +16,7 @@
     display: inline-block;
     left: 70%;
     top: 40vh;
+    color: Baby blue;
     -webkit-transition: all 0.3s ease-out;
 }
 
@@ -50,10 +51,10 @@
 
 header h2 {
     font-family: 'Pacifico';
-    font-size: 80px;
+    font-size: 70px;
     text-align: center;
-    margin-bottom: 30px;
-    color: light brown;
+    margin-bottom: 40px;
+    color: white;
 }
 
 header h4 {
