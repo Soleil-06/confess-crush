@@ -1,14 +1,11 @@
 const CONFIG = {
-    titleWeb: "Hi! Are You READY!Let's start, okay?",
+    titleWeb: "Hi! Mèo Tây",
     introTitle: 'Bé nè @_@',
-    introDesc: `Chị và bé là hai con người đối lập
-    Tự dưng có 1 ngày lại tương tác với nhau 
-    Rồi dần dần tiến xa hơn 1 chút...
-    Thời điểm hiện tại dù chưa hiểu nhau, nhưng ta cũng đang tiếp nhận đối phương đúng hong?`,
+    introDesc: `Chị và bé là hai con người đối lập. Thời điểm hiện tại dù chưa hiểu nhau, nhưng cũng đang tiếp nhận đối phương đúng hong?`,
     btnIntro: '<Hẹ Hẹ>',
-    title: 'Vậy nên giờ đây cũng đến lúc rồi!',
-    desc: 'Mọi khi câu này là bé hay gài chị, giờ tới chị hỏi bé nhé! 🥰 ',
-    btnYes: 'Bé có thương chị hong <33',
+    title: 'Mọi khi câu này là bé hay gài chị',
+    desc: 'Giờ tới chị hỏi bé nhé! Bé có thương chị hong🥰 ',
+    btnYes: 'Thương nhiều chút <33',
     btnNo: 'Chắc là hong hả :3',
     question: 'Cũng kệ luôn, Chị thương bé là được <3',
     btnReply: 'Chị |0ve Bé <3',
