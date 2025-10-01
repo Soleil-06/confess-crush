@@ -5,8 +5,13 @@ const CONFIG = {
     btnIntro: '<Hẹ Hẹ>',
     title: 'Mọi khi câu này là bé hay gài chị',
     desc: 'Giờ tới chị hỏi bé nhé! Bé có thương chị hong🥰 ',
+    <style>
+        p {color: blue;
     btnYes: 'Thương nhiều chút <33',
+        }
+         p {color: red; 
     btnNo: 'Chắc là hong hả :3',
+        }
     question: 'Cũng kệ luôn, Chị thương bé là được <3',
     btnReply: 'Chị |0ve Bé <3',
     reply: 'Vậy bây giờ tụi mình cùng bước tới giai đoạn tiếp theo nhé! <33333333',
