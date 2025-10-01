@@ -16,7 +16,7 @@
     display: inline-block;
     left: 70%;
     top: 40vh;
-    color: Baby blue;
+    color: Baby blue !important;
     -webkit-transition: all 0.3s ease-out;
 }
 
